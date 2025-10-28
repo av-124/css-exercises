@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+/* 1) Using type selectors */
+div p {
+  background-color: yellow;
+  color: red;
+  text-align: center;
+}
+
+/* 2) Using class selectors
+.container .text */
